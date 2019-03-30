@@ -1,0 +1,7 @@
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\bin\Debug\Basic Syntax Exercise - 07 Vending Machine.exe.config
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\bin\Debug\Basic Syntax Exercise - 07 Vending Machine.exe
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\bin\Debug\Basic Syntax Exercise - 07 Vending Machine.pdb
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\obj\Debug\Basic Syntax Exercise - 07 Vending Machine.csprojAssemblyReference.cache
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\obj\Debug\Basic Syntax Exercise - 07 Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\obj\Debug\Basic Syntax Exercise - 07 Vending Machine.exe
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 07 Vending Machine\obj\Debug\Basic Syntax Exercise - 07 Vending Machine.pdb

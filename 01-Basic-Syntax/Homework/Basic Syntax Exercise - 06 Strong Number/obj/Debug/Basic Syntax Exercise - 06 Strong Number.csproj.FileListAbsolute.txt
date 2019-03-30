@@ -1,0 +1,7 @@
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\bin\Debug\Basic Syntax Exercise - 06 Strong Number.exe.config
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\bin\Debug\Basic Syntax Exercise - 06 Strong Number.exe
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\bin\Debug\Basic Syntax Exercise - 06 Strong Number.pdb
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\obj\Debug\Basic Syntax Exercise - 06 Strong Number.csprojAssemblyReference.cache
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\obj\Debug\Basic Syntax Exercise - 06 Strong Number.csproj.CoreCompileInputs.cache
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\obj\Debug\Basic Syntax Exercise - 06 Strong Number.exe
+C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 06 Strong Number\obj\Debug\Basic Syntax Exercise - 06 Strong Number.pdb
