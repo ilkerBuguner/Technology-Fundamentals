@@ -1,7 +1,0 @@
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\bin\Debug\Basic Syntax Exercise - 05 Login.exe.config
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\bin\Debug\Basic Syntax Exercise - 05 Login.exe
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\bin\Debug\Basic Syntax Exercise - 05 Login.pdb
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\obj\Debug\Basic Syntax Exercise - 05 Login.csprojAssemblyReference.cache
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\obj\Debug\Basic Syntax Exercise - 05 Login.csproj.CoreCompileInputs.cache
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\obj\Debug\Basic Syntax Exercise - 05 Login.exe
-C:\Users\User7\source\repos\Tech Module (Януари)\Basic Syntax Exercise - 05 Login\obj\Debug\Basic Syntax Exercise - 05 Login.pdb
