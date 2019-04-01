@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script');
+
+body{
+    font-family:'Oleo Script', cursive, sans-serif;
+}
+
+
+h1{
+    color: blue;
+}
+
+p{
+    color: darkviolet;
+}
+
+li{
+    border: 2px solid yellow;
+}
+
+span{
+    border: 2px dotted darkcyan;
+}
+
+div{
+    border: 2px solid yellow;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+
+#green{
+    background: green;
+}
+
+#blue{
+    background: blue;
+}
+
+#red{
+    background: red;
+    color: white;z
+}
+
+#purple{
+    background: purple;
+}
+
+#orange{
+    background: orange;
+}
